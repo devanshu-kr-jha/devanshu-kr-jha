@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/devanshu-kr-jha/devanshu-kr-jha/main/back.png"/>
+<img align="center" src="https://raw.githubusercontent.com/devanshu-kr-jha/devanshu-kr-jha/main/banner.png"/>
 <h1 align="center">Hi 👋, I'm Devanshu</h1>
 <h4 align="center">An enthusiastic learner, passionate about implementing and launching new projects to increase my skill set and contribute towards the improvement of society as well as lives of people.</h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
